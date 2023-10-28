@@ -1,25 +1,27 @@
-# Bem vindo! Aceita um café ou uma água? ☕
+# Bem-vindo! Aceita um café ou uma água? ☕
 👨🏻‍💻 Com sua licença, permita-me apresentar:
 
-👋 Meu nome é **João Guilherme**, mas em Belo Horizonte meus amigos me chamam de João - Jão, ou acrescetando o sufixo Zão ou Zinho dependendo de fatores como idade e altura. Só que no lugar em que eu cresci, no interior de um munícipio chamado Alto Rio Novo do Espírito Santo, meus amigos e familiares constumam me chamar de Guilherme. Raramente ouço a combinação de João e Guilherme, mas pode ser também.
+👋 Meu nome é **João Guilherme**, mas em Belo Horizonte meus amigos me chamam de João - Jão, ou acrescentam o sufixo Zão ou Zinho dependendo de fatores como idade e altura.
 
-🏛️ Atualmente trabalho na Diretoria de Recursos Humanos da Polícia Militar de Minas Gerais (PMMG), onde junto de uma equipe realizamos gerenciamento de projetos setorias e de pessoal, assim como gerenciamento do sistema informatizado de recursos humanos (SIRH).
+🏛️ Atualmente estudo Ciência da Computação e Ciência de Dados na Faculdade Descomplica e tenho uma breve trajetória anterior em Engenharia de Sistemas na Universidade Federal de Minas Gerais (UFMG). Minhas áreas de interesse são muito correlatas ao universo de dados e programação back-end, onde posso processar, tratar e disponibilizar informações de um ambiente de Big Data.
 
-👀 Estou interessado em construir meios, ferramentas ou produtos que possam de alguma forma impactar pessoas. A ideia ainda é um pouco abstrata, mas sinto que esse desejo está sendo construído diarimente.
+💼 Trabalho como Engenheiro de Dados da Base Integrada de Segurança Pública (BISP), onde sou responsável por executar diversas atividades relacionadas à gestão de dados e análise, incluindo:
 
-🌱 Atualmente estudo Matemática na Universidade Federal de Minas Gerais (UFMG), com uma breve trajetória anterior por Engenharia de Sistemas, também nessa Faculdade.
-
-💞️ De qualquer forma, espero contribuir com a comunidade, bem como aproveitar o trabalho que generosamente é realizado através dessa rede universal.
-
+- Desenvolvimento e manutenção de pipelines de dados para coleta, processamento e armazenamento de informações.
+- Utilização de linguagens de programação como Python, SQL e Java para manipulação de dados.
+- Construção e manutenção de APIs de integração entre aplicações e data warehouses.
+- Configuração e administração de ferramentas de Big Data, como Spark, Kafka, Hive, Hadoop e HDFS.
+- Implementação de soluções de ETL e ELT (Extração, Transformação e Carga) para transformar dados brutos em formatos úteis para análise.
+- Garantia da qualidade dos dados, incluindo a limpeza e a verificação de integridade.
 
 # Contato
-📫 Para me encontrar e contatar? SINTA-SE À VONTADE! Estou a sua disposição, por isso, faça da maneira que achar mais confortável.
+📫 Para me encontrar e contatar? SINTA-SE À VONTADE! Estou à sua disposição, por isso, faça da maneira que achar mais confortável.
 
-📩 Meu endereço de E-mail é joaoguilhermeall@gmail.com.
-
+- 📩 Meu endereço de E-mail é joaoguilhermeall@gmail.com.
+- 🔗 Meu [LinkedIn](https://www.linkedin.com/in/joaoguilhermeall/).
 
 # Sobre minha personalidade 👨🏻
-Gosto muito animes, principalmente de One Piece.
+Gosto muito de animes, principalmente de One Piece.
 > _"Não tem a ver com ser possível, eu faço porque eu quero."_
 >
 > _Monkey D. Luffy (Pirata que estica)_
@@ -34,11 +36,7 @@ Meu filme favorito é Rei Leão 🦁, mas o segundo filme, embora poucas pessoas
 
 📚 Há algum tempo eu lia muitos livros de aventura e alguns me marcaram muito, principalmente obras do Julio Verne e do Conan Doyle.
 
-Sobre muitas coisas...
+Sobre muitas coisas que construíram minha personalidade, uma em especial de quando trabalhei em um ambiente militar...
 >  _"Não existe mérito no simples cumprimento do dever."_
 >
 > _Placa em alguma caserna_
-
-
-# ✅ Tarefa permanente
-🔷 Editar, colocar novas informações e manter esse repositório atualizado.
