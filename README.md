@@ -1,42 +1,44 @@
-# Bem-vindo! Aceita um café ou uma água? ☕
-👨🏻‍💻 Com sua licença, permita-me apresentar:
+# João Guilherme | Data Engineer
 
-👋 Meu nome é **João Guilherme**, mas em Belo Horizonte meus amigos me chamam de João - Jão, ou acrescentam o sufixo Zão ou Zinho dependendo de fatores como idade e altura.
+I am a Data Engineer focused on developing scalable and robust data solutions.  I specialize in designing, developing, and maintaining efficient data pipelines, leveraging big data technologies to transform raw data into actionable insights.  My experience encompasses ETL/ELT processes, data warehousing, and API development.  I am currently a student in the Computer Science and Data Science program at Faculdade Descomplica, building upon my prior degree in Systems Engineering from Universidade Federal de Minas Gerais (UFMG).
 
-🏛️ Atualmente estudo Ciência da Computação e Ciência de Dados na Faculdade Descomplica e tenho uma breve trajetória anterior em Engenharia de Sistemas na Universidade Federal de Minas Gerais (UFMG). Minhas áreas de interesse são muito correlatas ao universo de dados e programação back-end, onde posso processar, tratar e disponibilizar informações de um ambiente de Big Data.
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/REST%20API-007bff?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JupyterHub-D08220?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterHub" />
+  <img src="https://img.shields.io/badge/Podman-4AB04F?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+  <img src="https://img.shields.io/badge/GitLab-FCA12D?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Apache%20NiFi-0078D7?style=for-the-badge&logo=apache&logoColor=white" alt="NiFi" />
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-0039A6?style=for-the-badge&logo=apache&logoColor=white" alt="Iceberg" />
+</p>
 
-💼 Trabalho como Engenheiro de Dados da Base Integrada de Segurança Pública (BISP), onde sou responsável por executar diversas atividades relacionadas à gestão de dados e análise, incluindo:
+## Professional Experience
 
-- Desenvolvimento e manutenção de pipelines de dados para coleta, processamento e armazenamento de informações.
-- Utilização de linguagens de programação como Python, SQL e Java para manipulação de dados.
-- Construção e manutenção de APIs de integração entre aplicações e data warehouses.
-- Configuração e administração de ferramentas de Big Data, como Spark, Kafka, Hive, Hadoop e HDFS.
-- Implementação de soluções de ETL e ELT (Extração, Transformação e Carga) para transformar dados brutos em formatos úteis para análise.
-- Garantia da qualidade dos dados, incluindo a limpeza e a verificação de integridade.
+*   Design and maintain robust data pipelines for large-scale data processing.
+*   Develop and implement ETL/ELT solutions using Python, SQL, and Java.
+*   Build and manage APIs for seamless data integration.
+*   Utilize big data technologies such as Apache Spark, Kafka, Hive, Hadoop, and HDFS.
+*   Ensure data quality, integrity, and reliability through rigorous testing and monitoring.
+*   Optimize data workflows for performance and scalability.
 
-# Contato
-📫 Para me encontrar e contatar? SINTA-SE À VONTADE! Estou à sua disposição, por isso, faça da maneira que achar mais confortável.
+## Education
 
-- 📩 Meu endereço de E-mail é joaoguilhermeall@gmail.com.
-- 🔗 Meu [LinkedIn](https://www.linkedin.com/in/joaoguilhermeall/).
+*   **Faculdade Descomplica:** Computer Science and Data Science (Ongoing)
+*   **Universidade Federal de Minas Gerais (UFMG):** Systems Engineering
 
-# Sobre minha personalidade 👨🏻
-Gosto muito de animes, principalmente de One Piece.
-> _"Não tem a ver com ser possível, eu faço porque eu quero."_
->
-> _Monkey D. Luffy (Pirata que estica)_
+## Connect
 
-Peço desculpas antecipadamente, mas entre Friends e How I Met Your Mother (HIMYM), eu prefiro HIMYM.
-> _Um bar sempre é mais legal que uma cafeteria._
-
-Meu filme favorito é Rei Leão 🦁, mas o segundo filme, embora poucas pessoas o conheçam, também é sensacional.
-> _"A vida é um ciclo sem fim."_
->
-> _Mufasa_
-
-📚 Há algum tempo eu lia muitos livros de aventura e alguns me marcaram muito, principalmente obras do Julio Verne e do Conan Doyle.
-
-Sobre muitas coisas que construíram minha personalidade, uma em especial de quando trabalhei em um ambiente militar...
->  _"Não existe mérito no simples cumprimento do dever."_
->
-> _Placa em alguma caserna_
+*   **LinkedIn:** [joaoguilhermeall](https://www.linkedin.com/in/joaoguilhermeall/)
+*   **Email:** joaoguilhermeall@gmail.com
